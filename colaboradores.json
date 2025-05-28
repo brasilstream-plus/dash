@@ -1,0 +1,1292 @@
+[
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:09",
+        "Valor": "5.12"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "1:35",
+        "Valor": "54.03"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "2:37",
+        "Valor": "48.65"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "7:51",
+        "Valor": "145.96"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "13:41",
+        "Valor": "526.14"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "10:24",
+        "Valor": "480.30"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "20:57",
+        "Valor": "292.51"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "5:02",
+        "Valor": "407.09"
+    },
+    {
+        "Matricula": "1436",
+        "Colaborador": "Simone Almeida dos Santos Barbosa",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "7:56",
+        "Valor": "145.26"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "17:04",
+        "Valor": "302.01"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "2:16",
+        "Valor": "38.75"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "6:15",
+        "Valor": "106.84"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "2:59",
+        "Valor": "51.25"
+    },
+    {
+        "Matricula": "1621",
+        "Colaborador": "Crisila Reis De Oliveira Barros",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "4:16",
+        "Valor": "179.26"
+    },
+    {
+        "Matricula": "1634",
+        "Colaborador": "Daniel dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:06",
+        "Valor": "1.83"
+    },
+    {
+        "Matricula": "1634",
+        "Colaborador": "Daniel dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "1:59",
+        "Valor": "36.31"
+    },
+    {
+        "Matricula": "1664",
+        "Colaborador": "Carla Dyanny Rodrigues dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "4:31",
+        "Valor": "82.70"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "4:56",
+        "Valor": "110.00"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "5:07",
+        "Valor": "114.09"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "1:44",
+        "Valor": "38.65"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "23:36",
+        "Valor": "526.23"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "11:41",
+        "Valor": "189.18"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "13:23",
+        "Valor": "217.64"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "4:23",
+        "Valor": "70.98"
+    },
+    {
+        "Matricula": "2309",
+        "Colaborador": "Julia Goettert",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "11:35",
+        "Valor": "393.56"
+    },
+    {
+        "Matricula": "2309",
+        "Colaborador": "Julia Goettert",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "7:22",
+        "Valor": "251.36"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "9:41",
+        "Valor": "156.11"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:00",
+        "Valor": "177.34"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "4:04",
+        "Valor": "65.56"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "5:02",
+        "Valor": "93.70"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "1:24",
+        "Valor": "472.86"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "17:49",
+        "Valor": "331.68"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "18:37",
+        "Valor": "348.04"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "1:01",
+        "Valor": "23.29"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "18:04",
+        "Valor": "537.13"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "0:45",
+        "Valor": "16.19"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "2:21",
+        "Valor": "50.95"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "9:39",
+        "Valor": "207.43"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "3:22",
+        "Valor": "72.37"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "2:01",
+        "Valor": "43.54"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "1:58",
+        "Valor": "80.53"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "0:21",
+        "Valor": "5.86"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:16",
+        "Valor": "4.47"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "1:23",
+        "Valor": "23.18"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "0:29",
+        "Valor": "8.13"
+    },
+    {
+        "Matricula": "1436",
+        "Colaborador": "Simone Almeida dos Santos Barbosa",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:00",
+        "Valor": "175.77"
+    },
+    {
+        "Matricula": "1634",
+        "Colaborador": "Daniel dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "1:58",
+        "Valor": "43.21"
+    },
+    {
+        "Matricula": "1664",
+        "Colaborador": "Carla Dyanny Rodrigues dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "7:16",
+        "Valor": "159.66"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:13",
+        "Valor": "5.80"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "5:54",
+        "Valor": "157.87"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "0:00",
+        "Valor": "19.43"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "2:05",
+        "Valor": "40.66"
+    },
+    {
+        "Matricula": "2309",
+        "Colaborador": "Julia Goettert",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "7:16",
+        "Valor": "296.28"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "0:18",
+        "Valor": "5.80"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:14",
+        "Valor": "4.51"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:37",
+        "Valor": "14.28"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "0:27",
+        "Valor": "10.39"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:39",
+        "Valor": "8.11"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "2:15",
+        "Valor": "28.07"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "12:55",
+        "Valor": "120.33"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "17:08",
+        "Valor": "159.61"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "13:22",
+        "Valor": "124.49"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "0:51",
+        "Valor": "232.30"
+    },
+    {
+        "Matricula": "1436",
+        "Colaborador": "Simone Almeida dos Santos Barbosa",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "4:23",
+        "Valor": "53.51"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "5:05",
+        "Valor": "58.08"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:34",
+        "Valor": "6.46"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "1:48",
+        "Valor": "20.55"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "1:58",
+        "Valor": "22.69"
+    },
+    {
+        "Matricula": "1621",
+        "Colaborador": "Crisila Reis De Oliveira Barros",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "1:13",
+        "Valor": "34.47"
+    },
+    {
+        "Matricula": "1634",
+        "Colaborador": "Daniel dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:36",
+        "Valor": "7.51"
+    },
+    {
+        "Matricula": "1634",
+        "Colaborador": "Daniel dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "0:34",
+        "Valor": "6.98"
+    },
+    {
+        "Matricula": "1664",
+        "Colaborador": "Carla Dyanny Rodrigues dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "3:18",
+        "Valor": "40.39"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "1:25",
+        "Valor": "21.15"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "1:02",
+        "Valor": "19.98"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "0:03",
+        "Valor": "7.43"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "0:00",
+        "Valor": "371.68"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "0:00",
+        "Valor": "43.23"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "5:29",
+        "Valor": "59.47"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "1:59",
+        "Valor": "21.60"
+    },
+    {
+        "Matricula": "2309",
+        "Colaborador": "Julia Goettert",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "5:04",
+        "Valor": "114.97"
+    },
+    {
+        "Matricula": "2309",
+        "Colaborador": "Julia Goettert",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "2:07",
+        "Valor": "48.34"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "6:36",
+        "Valor": "71.03"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "2:49",
+        "Valor": "30.31"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "2:28",
+        "Valor": "26.53"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "1:13",
+        "Valor": "13.25"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "17:53",
+        "Valor": "1348.56"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "7:02",
+        "Valor": "1433.05"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "17:51",
+        "Valor": "1810.97"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "13:39",
+        "Valor": "2400.81"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "2:41",
+        "Valor": "392.06"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "20:35",
+        "Valor": "372.57"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "4:24",
+        "Valor": "397.55"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "13:16",
+        "Valor": "393.66"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "11:39",
+        "Valor": "409.25"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "22:29",
+        "Valor": "500.84"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "19:47",
+        "Valor": "430.64"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "3:21",
+        "Valor": "387.43"
+    },
+    {
+        "Matricula": "1436",
+        "Colaborador": "Simone Almeida dos Santos Barbosa",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "3:12",
+        "Valor": "290.60"
+    },
+    {
+        "Matricula": "1436",
+        "Colaborador": "Simone Almeida dos Santos Barbosa",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "6:12",
+        "Valor": "299.39"
+    },
+    {
+        "Matricula": "1436",
+        "Colaborador": "Simone Almeida dos Santos Barbosa",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "6:24",
+        "Valor": "370.28"
+    },
+    {
+        "Matricula": "1436",
+        "Colaborador": "Simone Almeida dos Santos Barbosa",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "12:11",
+        "Valor": "387.22"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "0:37",
+        "Valor": "1090.87"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "9:19",
+        "Valor": "942.33"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "14:03",
+        "Valor": "1143.34"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "6:08",
+        "Valor": "930.29"
+    },
+    {
+        "Matricula": "1621",
+        "Colaborador": "Crisila Reis De Oliveira Barros",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "21:44",
+        "Valor": "981.01"
+    },
+    {
+        "Matricula": "1634",
+        "Colaborador": "Daniel dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "9:55",
+        "Valor": "169.66"
+    },
+    {
+        "Matricula": "1634",
+        "Colaborador": "Daniel dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "22:04",
+        "Valor": "345.87"
+    },
+    {
+        "Matricula": "1634",
+        "Colaborador": "Daniel dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "5:01",
+        "Valor": "366.23"
+    },
+    {
+        "Matricula": "1634",
+        "Colaborador": "Daniel dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "9:11",
+        "Valor": "519.05"
+    },
+    {
+        "Matricula": "1664",
+        "Colaborador": "Carla Dyanny Rodrigues dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "6:43",
+        "Valor": "371.21"
+    },
+    {
+        "Matricula": "1664",
+        "Colaborador": "Carla Dyanny Rodrigues dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "13:24",
+        "Valor": "320.48"
+    },
+    {
+        "Matricula": "1664",
+        "Colaborador": "Carla Dyanny Rodrigues dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "3:27",
+        "Valor": "361.64"
+    },
+    {
+        "Matricula": "1664",
+        "Colaborador": "Carla Dyanny Rodrigues dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "23:58",
+        "Valor": "421.74"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "7:26",
+        "Valor": "1219.84"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "6:16",
+        "Valor": "1214.09"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "15:36",
+        "Valor": "1260.10"
+    },
+    {
+        "Matricula": "1812",
+        "Colaborador": "Wedeson Santos Leal",
+        "Centro de Custo": "Tecnologia Da Informação - T.I.",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "16:04",
+        "Valor": "1265.36"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "5:18",
+        "Valor": "541.10"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "16:04",
+        "Valor": "499.78"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "7:09",
+        "Valor": "621.81"
+    },
+    {
+        "Matricula": "2309",
+        "Colaborador": "Julia Goettert",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "14:38",
+        "Valor": "1019.26"
+    },
+    {
+        "Matricula": "2309",
+        "Colaborador": "Julia Goettert",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "0:53",
+        "Valor": "1393.54"
+    },
+    {
+        "Matricula": "2309",
+        "Colaborador": "Julia Goettert",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "14:45",
+        "Valor": "1636.84"
+    },
+    {
+        "Matricula": "2309",
+        "Colaborador": "Julia Goettert",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "0:00",
+        "Valor": "44.98"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "01/2025",
+        "Pagamento": "06/02/2025",
+        "Referência": "18:16",
+        "Valor": "431.71"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "02/2025",
+        "Pagamento": "06/03/2025",
+        "Referência": "4:41",
+        "Valor": "763.98"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "03/2025",
+        "Pagamento": "04/04/2025",
+        "Referência": "3:52",
+        "Valor": "536.62"
+    },
+    {
+        "Matricula": "2345",
+        "Colaborador": "Luan Kaique Pereira Batista",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Sobreaviso",
+        "Competência": "04/2025",
+        "Pagamento": "07/05/2025",
+        "Referência": "14:42",
+        "Valor": "495.51"
+    }
+]
