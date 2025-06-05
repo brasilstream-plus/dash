@@ -1,23 +1,1452 @@
 [
-  {
-    "Matricula": "12345", // Matrícula do colaborador
-    "Colaborador": "Nome Completo Do Colaborador", // Nome do colaborador
-    "Centro de Custo": "Nome Do Centro De Custo", // Centro de custo (informativo)
-    "Tipo": "Horas Extras c/ 50%", // Tipo de pagamento (informativo)
-    "Competência": "06/2025",     // Mês/Ano da competência das horas pagas
-    "Pagamento": "10/07/2025",    // Data do pagamento (informativo)
-    "Referência": "10.50",       // Quantidade de horas pagas (pode ser decimal "10.50" ou formato "10:30")
-    "Valor": "150.75"           // Valor pago (informativo)
-  },
-  {
-    "Matricula": "67890",
-    "Colaborador": "Outro Colaborador",
-    "Centro de Custo": "Outro Centro De Custo",
-    "Tipo": "Horas Extras c/ 100%",
-    "Competência": "06/2025",
-    "Pagamento": "10/07/2025",
-    "Referência": "05:15",       // Exemplo com formato HH:MM
-    "Valor": "95.30"
-  }
-  // ... mais registos
+    {
+        "Matricula": "2414",
+        "Colaborador": "Ackza Martins Lopes",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.03",
+        "Valor": "0.89"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral II - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "38.38",
+        "Valor": "541.7"
+    },
+    {
+        "Matricula": "1391",
+        "Colaborador": "Alexandre Pereira Oliveira",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "18.18",
+        "Valor": "278.95"
+    },
+    {
+        "Matricula": "2460",
+        "Colaborador": "Aline da Silva Lima",
+        "Centro de Custo": "Agência Transfusional - A.T.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "11.01",
+        "Valor": "215.09"
+    },
+    {
+        "Matricula": "2385",
+        "Colaborador": "Alison Paixao dos Santos",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "11.14",
+        "Valor": "203"
+    },
+    {
+        "Matricula": "2812",
+        "Colaborador": "Ana Carolina Pereira Diniz da Conceicao",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.46",
+        "Valor": "87.54"
+    },
+    {
+        "Matricula": "1855",
+        "Colaborador": "Andreia de Souza Santos",
+        "Centro de Custo": "Unid. Inter. Clinica Medica - U.I.C.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.17",
+        "Valor": "4.47"
+    },
+    {
+        "Matricula": "1495",
+        "Colaborador": "Andressa Serra Martins",
+        "Centro de Custo": "U.T.I. Pediatrica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "4.06",
+        "Valor": "64.97"
+    },
+    {
+        "Matricula": "1462",
+        "Colaborador": "Ane Samara Saraiva Soares",
+        "Centro de Custo": "Unid. Inter. Clinica Medica - U.I.C.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.21",
+        "Valor": "100.62"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "4.36",
+        "Valor": "157.62"
+    },
+    {
+        "Matricula": "1356",
+        "Colaborador": "Aparecida de Andrade Soares",
+        "Centro de Custo": "Central De Material Esterilizado - C.M.E.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.06",
+        "Valor": "17.58"
+    },
+    {
+        "Matricula": "2008",
+        "Colaborador": "Beatriz Teixeira Cardoso Soares",
+        "Centro de Custo": "N.Q.S.P.  - Nucleo de Qualidade e Segurança",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.01",
+        "Valor": "10.58"
+    },
+    {
+        "Matricula": "1700",
+        "Colaborador": "Bruno Pinheiro Dal Col",
+        "Centro de Custo": "Supervisão de Enfermagem",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.07",
+        "Valor": "77.96"
+    },
+    {
+        "Matricula": "1664",
+        "Colaborador": "Carla Dyanny Rodrigues dos Santos",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.38",
+        "Valor": "30.01"
+    },
+    {
+        "Matricula": "1534",
+        "Colaborador": "Carla Fernanda Milhomem Soares",
+        "Centro de Custo": "U.T.I. Adulto",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "8.08",
+        "Valor": "292.08"
+    },
+    {
+        "Matricula": "1395",
+        "Colaborador": "Carmem Lucia Dias de Oliveira",
+        "Centro de Custo": "Central De Material Esterilizado - C.M.E.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.38",
+        "Valor": "10.04"
+    },
+    {
+        "Matricula": "1536",
+        "Colaborador": "Catiana De Souza Rocha",
+        "Centro de Custo": "U.T.I. Adulto",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.17",
+        "Valor": "36.18"
+    },
+    {
+        "Matricula": "1674",
+        "Colaborador": "Clair Lucila Hoerlle",
+        "Centro de Custo": "Lactario",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "24.09",
+        "Valor": "416.53"
+    },
+    {
+        "Matricula": "1539",
+        "Colaborador": "Daiane Pereira Cunha",
+        "Centro de Custo": "Serviço De Higienização E Limpeza Administrativo - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "10.48",
+        "Valor": "169.41"
+    },
+    {
+        "Matricula": "2808",
+        "Colaborador": "Daniel Lisboa de Oliveira",
+        "Centro de Custo": "Lavanderia",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "10.35",
+        "Valor": "166.37"
+    },
+    {
+        "Matricula": "1866",
+        "Colaborador": "Debora Moraes Pessoa",
+        "Centro de Custo": "Lavanderia ADM",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "13.19",
+        "Valor": "207.85"
+    },
+    {
+        "Matricula": "2985",
+        "Colaborador": "Elaine Raquel Andrade da Costa",
+        "Centro de Custo": "Equipe Multidisciplinar - E.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.05",
+        "Valor": "137.85"
+    },
+    {
+        "Matricula": "1549",
+        "Colaborador": "Eliana de Souza Pinheiro",
+        "Centro de Custo": "Unid. Inter. Clinica De Especialidades - U.I.C.E",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.06",
+        "Valor": "110.85"
+    },
+    {
+        "Matricula": "2253",
+        "Colaborador": "Emily Carine Mota da Silva",
+        "Centro de Custo": "U.T.I. Adulto",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.35",
+        "Valor": "28.53"
+    },
+    {
+        "Matricula": "2023",
+        "Colaborador": "Erisvaldo Santos Silva",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "18.27",
+        "Valor": "281.24"
+    },
+    {
+        "Matricula": "1852",
+        "Colaborador": "Fabio Rodrigues da Silva",
+        "Centro de Custo": "Núcleo Geral De Manutenção Geral III - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "12.28",
+        "Valor": "252.67"
+    },
+    {
+        "Matricula": "1560",
+        "Colaborador": "Fernanda Silva de Miranda",
+        "Centro de Custo": "Unid. Inter. Clinica Medica - U.I.C.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "4.19",
+        "Valor": "138.24"
+    },
+    {
+        "Matricula": "2285",
+        "Colaborador": "Gabriel Epitacio Rodrigues Oliveira",
+        "Centro de Custo": "Farmácia",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "11.01",
+        "Valor": "362.62"
+    },
+    {
+        "Matricula": "2320",
+        "Colaborador": "Gabriel Ferreira Prado",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "14.06",
+        "Valor": "250.6"
+    },
+    {
+        "Matricula": "2431",
+        "Colaborador": "Geova Lazaro Alves Pereira",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.38",
+        "Valor": "113.31"
+    },
+    {
+        "Matricula": "1361",
+        "Colaborador": "Gisele Carine Nonato Costa Santos",
+        "Centro de Custo": "U.T.I. Adulto",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.3",
+        "Valor": "62.89"
+    },
+    {
+        "Matricula": "2733",
+        "Colaborador": "Grata Oliveira de Santana",
+        "Centro de Custo": "Lavanderia",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.09",
+        "Valor": "89.29"
+    },
+    {
+        "Matricula": "2473",
+        "Colaborador": "Greiciele Frutuoso Coutinho",
+        "Centro de Custo": "Unid. Inter. Clinica Pediatrica - U.I.C.P.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "4.46",
+        "Valor": "74.9"
+    },
+    {
+        "Matricula": "2592",
+        "Colaborador": "Guilherme Silva Araujo",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "23.42",
+        "Valor": "419.73"
+    },
+    {
+        "Matricula": "2110",
+        "Colaborador": "Jaciara Benicio de Souza",
+        "Centro de Custo": "Serviço de Nutrição e Dietética - S.N.D",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.36",
+        "Valor": "24.39"
+    },
+    {
+        "Matricula": "2802",
+        "Colaborador": "Jefesson Mateus Rocha Souza",
+        "Centro de Custo": "Farmácia",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "10.35",
+        "Valor": "133.88"
+    },
+    {
+        "Matricula": "2637",
+        "Colaborador": "Joana Dark Ferreira Nascimento",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "10.26",
+        "Valor": "181.33"
+    },
+    {
+        "Matricula": "2636",
+        "Colaborador": "Joseilson Cardoso dos Santos",
+        "Centro de Custo": "Núcleo Geral De Manutenção Administrativo - N.G.M.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "25.41",
+        "Valor": "318.99"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "Hemodinamica",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "7.09",
+        "Valor": "245"
+    },
+    {
+        "Matricula": "1285",
+        "Colaborador": "Kaylenn Nascimento dos Santos",
+        "Centro de Custo": "U.T.I. Neonatal",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.41",
+        "Valor": "116.89"
+    },
+    {
+        "Matricula": "1779",
+        "Colaborador": "Keliane Cardoso de Sousa",
+        "Centro de Custo": "Psicologia",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.02",
+        "Valor": "68.35"
+    },
+    {
+        "Matricula": "2437",
+        "Colaborador": "Lana Clara Alves Modesto",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.15",
+        "Valor": "49.34"
+    },
+    {
+        "Matricula": "2488",
+        "Colaborador": "Larissa Gama Ribeiro",
+        "Centro de Custo": "U.T.I. Adulto",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "4.23",
+        "Valor": "137.84"
+    },
+    {
+        "Matricula": "1569",
+        "Colaborador": "Leidiane de Souza Silva",
+        "Centro de Custo": "Serviço De Higienização E Limpeza - S.H.L.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.37",
+        "Valor": "10.7"
+    },
+    {
+        "Matricula": "1293",
+        "Colaborador": "Leticia da Costa Fe",
+        "Centro de Custo": "Unid. Inter. Clinica De Especialidades - U.I.C.E",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.23",
+        "Valor": "43.9"
+    },
+    {
+        "Matricula": "1493",
+        "Colaborador": "Leticia Nogueira de Souza",
+        "Centro de Custo": "Ambulatório",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "10.05",
+        "Valor": "159.78"
+    },
+    {
+        "Matricula": "1490",
+        "Colaborador": "Lindalva de Sousa Machado",
+        "Centro de Custo": "U.T.I. Neonatal",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.05",
+        "Valor": "80.55"
+    },
+    {
+        "Matricula": "1346",
+        "Colaborador": "Lucas Vieira Sampaio",
+        "Centro de Custo": "Unid. Inter. Clinica De Especialidades - U.I.C.E",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.59",
+        "Valor": "143.37"
+    },
+    {
+        "Matricula": "2982",
+        "Colaborador": "Luciano da Silva Sousa",
+        "Centro de Custo": "Ambulatório",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "22.02",
+        "Valor": "346.23"
+    },
+    {
+        "Matricula": "2288",
+        "Colaborador": "Luiz Leal de Sousa Neto",
+        "Centro de Custo": "Farmácia Dispensação - F.D.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "15.56",
+        "Valor": "228.88"
+    },
+    {
+        "Matricula": "1686",
+        "Colaborador": "Marcia Lima Miranda",
+        "Centro de Custo": "U.T.I. Neonatal",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.47",
+        "Valor": "243.9"
+    },
+    {
+        "Matricula": "1582",
+        "Colaborador": "Marcos Camelo Da Cruz",
+        "Centro de Custo": "Unid. Inter. Clinica De Especialidades - U.I.C.E",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.19",
+        "Valor": "5.02"
+    },
+    {
+        "Matricula": "2388",
+        "Colaborador": "Maria de Fatima da Silva e Silva",
+        "Centro de Custo": "Unid. Inter. Clinica De Especialidades - U.I.C.E",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "20.25",
+        "Valor": "738.92"
+    },
+    {
+        "Matricula": "0001",
+        "Colaborador": "-",
+        "Centro de Custo": "INSTITUTO DE SAÚDE SOC. E AMB. DA AMAZ.",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "",
+        "Pagamento": "",
+        "Referência": "",
+        "Valor": "Pág.:"
+    },
+    {
+        "Matricula": "1609",
+        "Colaborador": "Marlene de Albuquerque Silva Vieira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "7.08",
+        "Valor": "115.85"
+    },
+    {
+        "Matricula": "1895",
+        "Colaborador": "Matheus Romolo Alves Farias",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "12.49",
+        "Valor": "214.47"
+    },
+    {
+        "Matricula": "2800",
+        "Colaborador": "Matheus Warlley Moraes Torres",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "11.08",
+        "Valor": "341.16"
+    },
+    {
+        "Matricula": "1597",
+        "Colaborador": "Mayara Feitosa Moreira Gomes Bonfim",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "12.31",
+        "Valor": "474.07"
+    },
+    {
+        "Matricula": "1600",
+        "Colaborador": "Mirelly De Souza Rosa",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "7.23",
+        "Valor": "279.64"
+    },
+    {
+        "Matricula": "1427",
+        "Colaborador": "Nayane de Aguiar",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "7.34",
+        "Valor": "275.44"
+    },
+    {
+        "Matricula": "2983",
+        "Colaborador": "Pablo Ryan Fernandes Sirqueira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.31",
+        "Valor": "50.81"
+    },
+    {
+        "Matricula": "1304",
+        "Colaborador": "Patricia Winne Santos Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.44",
+        "Valor": "25.15"
+    },
+    {
+        "Matricula": "2562",
+        "Colaborador": "Rafael Da Luz Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.03",
+        "Valor": "0.79"
+    },
+    {
+        "Matricula": "2220",
+        "Colaborador": "Railan Assuncao Vieira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "61.31",
+        "Valor": "970.71"
+    },
+    {
+        "Matricula": "2111",
+        "Colaborador": "Raimunda Oliveira Sousa",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "19.42",
+        "Valor": "321.64"
+    },
+    {
+        "Matricula": "1494",
+        "Colaborador": "Rayfran da Silva Cunha",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.2",
+        "Valor": "41.91"
+    },
+    {
+        "Matricula": "2118",
+        "Colaborador": "Rosiane Conceicao Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "16.19",
+        "Valor": "279.66"
+    },
+    {
+        "Matricula": "1491",
+        "Colaborador": "Rosineide Ferreira Gomes",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.59",
+        "Valor": "44.26"
+    },
+    {
+        "Matricula": "2527",
+        "Colaborador": "Samia de Sousa Morais",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "33.24",
+        "Valor": "524.84"
+    },
+    {
+        "Matricula": "2712",
+        "Colaborador": "Savio dos Santos Cruz",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "4.54",
+        "Valor": "77"
+    },
+    {
+        "Matricula": "1436",
+        "Colaborador": "Simone Almeida dos Santos Barbosa",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.11",
+        "Valor": "40.12"
+    },
+    {
+        "Matricula": "1961",
+        "Colaborador": "Tatiana Ribeiro Machado",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.12",
+        "Valor": "93.71"
+    },
+    {
+        "Matricula": "2290",
+        "Colaborador": "Ticiane Pereira da Silva Ferreira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "20.15",
+        "Valor": "285.75"
+    },
+    {
+        "Matricula": "2635",
+        "Colaborador": "Uelintom da Silva Marinho",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "40.21",
+        "Valor": "560.99"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "10.58",
+        "Valor": "177.57"
+    },
+    {
+        "Matricula": "1292",
+        "Colaborador": "Valdiza Pereira dos Santos",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.52",
+        "Valor": "51.88"
+    },
+    {
+        "Matricula": "1513",
+        "Colaborador": "Vanessa Leoncio da Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "36.23",
+        "Valor": "576.52"
+    },
+    {
+        "Matricula": "1300",
+        "Colaborador": "Veronica Gomes Ferreira Cortes",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.15",
+        "Valor": "98"
+    },
+    {
+        "Matricula": "2476",
+        "Colaborador": "Wander Washington de Almeida Sobrinho",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.52",
+        "Valor": "103.9"
+    },
+    {
+        "Matricula": "2108",
+        "Colaborador": "William De Jesus Oliveira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "17.18",
+        "Valor": "241.55"
+    },
+    {
+        "Matricula": "2374",
+        "Colaborador": "Yago de Sousa Santos",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.35",
+        "Valor": "64.09"
+    },
+    {
+        "Matricula": "1287",
+        "Colaborador": "Zelia Maria Santana Silva do Nascimento",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.21",
+        "Valor": "6.28"
+    },
+    {
+        "Matricula": "",
+        "Colaborador": "",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 50%",
+        "Competência": "",
+        "Pagamento": "",
+        "Referência": "",
+        "Valor": "15027.18"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "31.41",
+        "Valor": "592.33"
+    },
+    {
+        "Matricula": "1866",
+        "Colaborador": "Debora Moraes Pessoa",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "9.58",
+        "Valor": "207.42"
+    },
+    {
+        "Matricula": "1852",
+        "Colaborador": "Fabio Rodrigues da Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "9.17",
+        "Valor": "250.87"
+    },
+    {
+        "Matricula": "2636",
+        "Colaborador": "Joseilson Cardoso dos Santos",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "16.5",
+        "Valor": "278.76"
+    },
+    {
+        "Matricula": "1779",
+        "Colaborador": "Keliane Cardoso de Sousa",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "19.12",
+        "Valor": "860.5"
+    },
+    {
+        "Matricula": "1609",
+        "Colaborador": "Marlene de Albuquerque Silva Vieira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.41",
+        "Valor": "14.8"
+    },
+    {
+        "Matricula": "2983",
+        "Colaborador": "Pablo Ryan Fernandes Sirqueira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "8.29",
+        "Valor": "228.37"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.08",
+        "Valor": "25.96"
+    },
+    {
+        "Matricula": "2560",
+        "Colaborador": "Suane Pereira Martins",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "11.1",
+        "Valor": "487.79"
+    },
+    {
+        "Matricula": "2635",
+        "Colaborador": "Uelintom da Silva Marinho",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "18.42",
+        "Valor": "346.65"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.34",
+        "Valor": "55.41"
+    },
+    {
+        "Matricula": "2108",
+        "Colaborador": "William De Jesus Oliveira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "10.39",
+        "Valor": "198.26"
+    },
+    {
+        "Matricula": "",
+        "Colaborador": "",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/ 100%",
+        "Competência": "",
+        "Pagamento": "",
+        "Referência": "",
+        "Valor": "3547.12"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.52",
+        "Valor": "14.58"
+    },
+    {
+        "Matricula": "1495",
+        "Colaborador": "Andressa Serra Martins",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "8",
+        "Valor": "152.12"
+    },
+    {
+        "Matricula": "1534",
+        "Colaborador": "Carla Fernanda Milhomem Soares",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.44",
+        "Valor": "290.17"
+    },
+    {
+        "Matricula": "1852",
+        "Colaborador": "Fabio Rodrigues da Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.45",
+        "Valor": "42.56"
+    },
+    {
+        "Matricula": "2431",
+        "Colaborador": "Geova Lazaro Alves Pereira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.51",
+        "Valor": "165.33"
+    },
+    {
+        "Matricula": "2473",
+        "Colaborador": "Greiciele Frutuoso Coutinho",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.27",
+        "Valor": "65.05"
+    },
+    {
+        "Matricula": "2437",
+        "Colaborador": "Lana Clara Alves Modesto",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.51",
+        "Valor": "124.78"
+    },
+    {
+        "Matricula": "2488",
+        "Colaborador": "Larissa Gama Ribeiro",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "8",
+        "Valor": "301.89"
+    },
+    {
+        "Matricula": "1569",
+        "Colaborador": "Leidiane de Souza Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.38",
+        "Valor": "117.26"
+    },
+    {
+        "Matricula": "1490",
+        "Colaborador": "Lindalva de Sousa Machado",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.57",
+        "Valor": "132.15"
+    },
+    {
+        "Matricula": "0001",
+        "Colaborador": "-",
+        "Centro de Custo": "INSTITUTO DE SAÚDE SOC. E AMB. DA AMAZ.",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "",
+        "Pagamento": "",
+        "Referência": "",
+        "Valor": "Pág.:"
+    },
+    {
+        "Matricula": "2288",
+        "Colaborador": "Luiz Leal de Sousa Neto",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "7.05",
+        "Valor": "122.1"
+    },
+    {
+        "Matricula": "1609",
+        "Colaborador": "Marlene de Albuquerque Silva Vieira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.17",
+        "Valor": "44.5"
+    },
+    {
+        "Matricula": "1597",
+        "Colaborador": "Mayara Feitosa Moreira Gomes Bonfim",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.22",
+        "Valor": "16.67"
+    },
+    {
+        "Matricula": "1427",
+        "Colaborador": "Nayane de Aguiar",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "7.13",
+        "Valor": "315.24"
+    },
+    {
+        "Matricula": "2220",
+        "Colaborador": "Railan Assuncao Vieira",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.54",
+        "Valor": "130.66"
+    },
+    {
+        "Matricula": "2111",
+        "Colaborador": "Raimunda Oliveira Sousa",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "8",
+        "Valor": "156.74"
+    },
+    {
+        "Matricula": "2118",
+        "Colaborador": "Rosiane Conceicao Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.51",
+        "Valor": "140.89"
+    },
+    {
+        "Matricula": "2712",
+        "Colaborador": "Savio dos Santos Cruz",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "7.23",
+        "Valor": "139.22"
+    },
+    {
+        "Matricula": "1961",
+        "Colaborador": "Tatiana Ribeiro Machado",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.44",
+        "Valor": "145.61"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.16",
+        "Valor": "5.18"
+    },
+    {
+        "Matricula": "2374",
+        "Colaborador": "Yago de Sousa Santos",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "6.46",
+        "Valor": "145.23"
+    },
+    {
+        "Matricula": "",
+        "Colaborador": "",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/50% Noturn",
+        "Competência": "",
+        "Pagamento": "",
+        "Referência": "",
+        "Valor": "2767.93"
+    },
+    {
+        "Matricula": "1852",
+        "Colaborador": "Fabio Rodrigues da Silva",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/100% Notur",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.08",
+        "Valor": "36.75"
+    },
+    {
+        "Matricula": "",
+        "Colaborador": "",
+        "Centro de Custo": "",
+        "Tipo": "Horas Extras c/100% Notur",
+        "Competência": "",
+        "Pagamento": "",
+        "Referência": "",
+        "Valor": "36.75"
+    },
+    {
+        "Matricula": "1408",
+        "Colaborador": "Alex Maciel Pereira",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "23.37",
+        "Valor": "220.89"
+    },
+    {
+        "Matricula": "1322",
+        "Colaborador": "Antonio Vinicius Bezerra da Silva",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.01",
+        "Valor": "23.35"
+    },
+    {
+        "Matricula": "2008",
+        "Colaborador": "Beatriz Teixeira Cardoso Soares",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.17",
+        "Valor": "2.03"
+    },
+    {
+        "Matricula": "1664",
+        "Colaborador": "Carla Dyanny Rodrigues dos Santos",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.21",
+        "Valor": "4.45"
+    },
+    {
+        "Matricula": "1539",
+        "Colaborador": "Daiane Pereira Cunha",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.06",
+        "Valor": "32.58"
+    },
+    {
+        "Matricula": "1866",
+        "Colaborador": "Debora Moraes Pessoa",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "7.4",
+        "Valor": "79.86"
+    },
+    {
+        "Matricula": "1852",
+        "Colaborador": "Fabio Rodrigues da Silva",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "8.17",
+        "Valor": "112.09"
+    },
+    {
+        "Matricula": "2285",
+        "Colaborador": "Gabriel Epitacio Rodrigues Oliveira",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.1",
+        "Valor": "69.73"
+    },
+    {
+        "Matricula": "2636",
+        "Colaborador": "Joseilson Cardoso dos Santos",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "13.52",
+        "Valor": "114.95"
+    },
+    {
+        "Matricula": "1365",
+        "Colaborador": "Karoline Oliveira Gomes",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.35",
+        "Valor": "36.3"
+    },
+    {
+        "Matricula": "1779",
+        "Colaborador": "Keliane Cardoso de Sousa",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "7.58",
+        "Valor": "178.63"
+    },
+    {
+        "Matricula": "1609",
+        "Colaborador": "Marlene de Albuquerque Silva Vieira",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.06",
+        "Valor": "33.68"
+    },
+    {
+        "Matricula": "1597",
+        "Colaborador": "Mayara Feitosa Moreira Gomes Bonfim",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "3.44",
+        "Valor": "94.37"
+    },
+    {
+        "Matricula": "1600",
+        "Colaborador": "Mirelly De Souza Rosa",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.07",
+        "Valor": "53.78"
+    },
+    {
+        "Matricula": "2983",
+        "Colaborador": "Pablo Ryan Fernandes Sirqueira",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "2.49",
+        "Valor": "38.07"
+    },
+    {
+        "Matricula": "1436",
+        "Colaborador": "Simone Almeida dos Santos Barbosa",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.29",
+        "Valor": "5.94"
+    },
+    {
+        "Matricula": "1448",
+        "Colaborador": "Stenio Almeida Rodrigues",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "0.26",
+        "Valor": "4.99"
+    },
+    {
+        "Matricula": "2560",
+        "Colaborador": "Suane Pereira Martins",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "4.17",
+        "Valor": "93.81"
+    },
+    {
+        "Matricula": "2290",
+        "Colaborador": "Ticiane Pereira da Silva Ferreira",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "5.5",
+        "Valor": "54.95"
+    },
+    {
+        "Matricula": "2635",
+        "Colaborador": "Uelintom da Silva Marinho",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "18.49",
+        "Valor": "174.55"
+    },
+    {
+        "Matricula": "2025",
+        "Colaborador": "Valdinar Ferreira da Silva",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "4.14",
+        "Valor": "45.8"
+    },
+    {
+        "Matricula": "1300",
+        "Colaborador": "Veronica Gomes Ferreira Cortes",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "1.3",
+        "Valor": "18.85"
+    },
+    {
+        "Matricula": "2108",
+        "Colaborador": "William De Jesus Oliveira",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "05/2025",
+        "Pagamento": "06/06/2025",
+        "Referência": "9.05",
+        "Valor": "84.58"
+    },
+    {
+        "Matricula": "",
+        "Colaborador": "",
+        "Centro de Custo": "",
+        "Tipo": "DSR Reflexo H.Extras",
+        "Competência": "",
+        "Pagamento": "",
+        "Referência": "",
+        "Valor": "1578.23"
+    }
 ]
