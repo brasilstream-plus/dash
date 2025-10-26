@@ -1,0 +1,169 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH213",
+            "callLetter": "HDGLN",
+            "channelNumber": 540,
+            "channelMapNumber": 540,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/63/12636011_5F32AC7ACE93517F.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Globo News, Rede Globo News"
+        },
+        {
+            "pid": "LCH4068",
+            "callLetter": "HDCNN",
+            "channelNumber": 577,
+            "channelMapNumber": 577,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "CNN Brasil, CNN Brazil"
+        },
+        {
+            "pid": "LCH7064",
+            "callLetter": "CNNMO",
+            "channelNumber": 578,
+            "channelMapNumber": 578,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/91/20915592_0D9ADABA9D58EF6A.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "CNN Money, CNN Financial"
+        },
+        {
+            "pid": "LCH2091",
+            "callLetter": "RECND",
+            "channelNumber": 586,
+            "channelMapNumber": 586,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/74/17745058_720F4926E05B8E8D.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Record News, Rede Record News"
+        },
+        {
+            "pid": "LCH7065",
+            "callLetter": "CNBC",
+            "channelNumber": 592,
+            "channelMapNumber": 592,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/22/21229755_9EEF7C549B122E40.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TIMES EXCLUSIVO CNBC, CNBC Exclusive"
+        },
+        {
+            "pid": "0",
+            "callLetter": "BBNWS",
+            "channelNumber": 580,
+            "channelMapNumber": 580,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Band News, BandNews TV"
+        },
+        {
+            "pid": "0",
+            "callLetter": "JOVEM",
+            "channelNumber": 581,
+            "channelMapNumber": 581,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "JP News, Jovem Pan News, Jovem Pan"
+        },
+        {
+            "pid": "0",
+            "callLetter": "RBCTV",
+            "channelNumber": 585,
+            "channelMapNumber": 585,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "RBC News, RBC TV"
+        },
+        {
+            "pid": "0",
+            "callLetter": "SBTNW",
+            "channelNumber": 583,
+            "channelMapNumber": 583,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "SBT News, SBT Jornalismo"
+        },
+        {
+            "pid": "0",
+            "callLetter": "REDETV",
+            "channelNumber": 587,
+            "channelMapNumber": 587,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "RedeTV! News, RedeTV! Jornalismo"
+        },
+        {
+            "pid": "0",
+            "callLetter": "CULTN",
+            "channelNumber": 589,
+            "channelMapNumber": 589,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Cultura News, TV Cultura News"
+        }
+    ]
+}
